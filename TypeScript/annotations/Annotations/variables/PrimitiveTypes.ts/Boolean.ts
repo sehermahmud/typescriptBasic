@@ -1,2 +1,2 @@
 // boolean in TS
-let bucks1: boolean = true;
+let bucks: boolean = true;

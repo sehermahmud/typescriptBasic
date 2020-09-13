@@ -1,9 +1,9 @@
-const today1 = new Date();
-today1.getMonth();
+const today = new Date();
+today.getMonth();
 
-const person1 = {
+const person = {
   age: 20,
 };
 
-class Color1 {}
-const red1 = new Color1();
+class Color {}
+const red = new Color();

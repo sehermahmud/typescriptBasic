@@ -1,2 +1,2 @@
 // string in TS
-let adoptMePets1: string = 'mega neon, riding, flying, full grown unicon';
+let adoptMePets: string = 'mega neon, riding, flying, full grown unicon';

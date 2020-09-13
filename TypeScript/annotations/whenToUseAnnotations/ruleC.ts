@@ -3,29 +3,29 @@
 // 3) When a function returns the 'any' type and we need to clarify a value
 
 // without annotations
-let number11 = [-18, 13, -7];
-let numberAboveZero11: false;
+let numberOne = [-18, 13, -7];
+let numberAboveZeroOne: false;
 
-for (let i = 0; i < number11.length; i++) {
-  if (number11[i] > 0) {
-    numberAboveZero11 = false; // number22[i], please give this a test and it will show the error
-    console.log('Added', numberAboveZero11);
+for (let i = 0; i < numberOne.length; i++) {
+  if (numberOne[i] > 0) {
+    numberAboveZeroOne = false; // number22[i], please give this a test and it will show the error
+    console.log('Added', numberAboveZeroOne);
   } else {
-    numberAboveZero11 = null;
-    console.log('number is smaller like 0', numberAboveZero11);
+    numberAboveZeroOne = null;
+    console.log('number is smaller like 0', numberAboveZeroOne);
   }
 }
 
 // with annotations
-let number22 = [-18, 13, -7];
-let numberAboveZero22: boolean | number = false;
+let numberTwo = [-18, 13, -7];
+let numberAboveZeroTwo: boolean | number = false;
 
-for (let i = 0; i < number22.length; i++) {
-  if (number22[i] > 0) {
-    numberAboveZero22 = number22[i];
-    console.log('Added', numberAboveZero22);
+for (let i = 0; i < numberTwo.length; i++) {
+  if (numberTwo[i] > 0) {
+    numberAboveZeroTwo = numberTwo[i];
+    console.log('Added', numberAboveZeroTwo);
   } else {
-    numberAboveZero22 = null;
-    console.log('number is smaller like 0', numberAboveZero22);
+    numberAboveZeroTwo = null;
+    console.log('number is smaller like 0', numberAboveZeroTwo);
   }
 }

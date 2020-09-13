@@ -1,2 +1,2 @@
 // null in TS
-let scammers1: null = null;
+let scammers: null = null;

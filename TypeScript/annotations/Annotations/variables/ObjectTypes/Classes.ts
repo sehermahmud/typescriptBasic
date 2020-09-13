@@ -1,4 +1,4 @@
 // Classes in TS
-class AdoptMeCar1 {}
+class AdoptMeCar {}
 
-let car: AdoptMeCar1 = new AdoptMeCar1();
+let car: AdoptMeCar = new AdoptMeCar();

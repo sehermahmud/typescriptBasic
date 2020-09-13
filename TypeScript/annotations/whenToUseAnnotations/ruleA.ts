@@ -3,11 +3,11 @@
 // 1) Function that returns the 'any' type
 
 // without annotations
-const json11 = '{"x": 10, "y": 20}';
-const coordinates11 = JSON.parse(json1);
+const json = '{"x": 10, "y": 20}';
+const coordinates = JSON.parse(json);
 console.log(coordinates1);
 
 // with annotations
-const json22 = '{"x": 10, "y": 20}';
-const coordinates22: { x: number; y: number } = JSON.parse(json2);
-console.log(coordinates2);
+const jsonTwo = '{"x": 10, "y": 20}';
+const coordinatesTwo: { x: number; y: number } = JSON.parse(jsonTwo);
+console.log(coordinatesTwo);
