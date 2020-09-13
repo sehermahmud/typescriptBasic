@@ -1,17 +1,26 @@
-Primitive Types in JS are:
-. Number,
-. String,
-. Boolean,
-. Null,
-. Undefined,
-. Symbol,
-. Void
+Primitives types in JS:
 
-Object Types in JS are:
-. Objects,
-. Arrays,
-. Classes,
-. Function
+. string ,
+
+. number ,
+
+. undefined ,
+
+. null ,
+
+. boolean ,
+
+. symbol
+
+Object types in JS:
+
+. function ,
+
+. arrays ,
+
+. classes ,
+
+. objects ,
 
 // code Example
 

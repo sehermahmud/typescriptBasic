@@ -1,17 +1,26 @@
-Primitive Types in TS are:
-. Number,
-. String,
-. Boolean,
-. Null,
-. Undefined,
-. Symbol,
-. Void
+Primitives types in TS:
 
-Object Types in YS are:
-. Objects,
-. Arrays,
-. Classes,
-. Function
+. string ,
+
+. number ,
+
+. undefined ,
+
+. null ,
+
+. boolean ,
+
+. symbol
+
+Object types in TS:
+
+. function ,
+
+. arrays ,
+
+. classes ,
+
+. objects ,
 
 // code Example
 

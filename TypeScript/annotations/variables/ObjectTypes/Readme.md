@@ -1,1 +1,9 @@
-/_ Object Types in TS are Objects, Arrays, Classes, Function _/
+Object types in TS:
+
+. function ,
+
+. arrays ,
+
+. classes ,
+
+. objects ,

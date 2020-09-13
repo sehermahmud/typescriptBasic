@@ -1,1 +1,13 @@
-/_ Primitive Types in TS are Number, String, Boolean, Null, Undefined, Symbol, Void _/
+Primitives types in TS:
+
+. string ,
+
+. number ,
+
+. undefined ,
+
+. null ,
+
+. boolean ,
+
+. symbol

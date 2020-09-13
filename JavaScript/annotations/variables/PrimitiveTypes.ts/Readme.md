@@ -1,1 +1,15 @@
-/_ Primitive Types in JS are Number, String, Boolean, Null, Undefined, Symbol, Void _/
+Primitives types in JS:
+
+. string ,
+
+. number ,
+
+. undefined ,
+
+. null ,
+
+. boolean ,
+
+. symbol
+
+. void
