@@ -25,7 +25,7 @@ Object types in TS:
 // code Example
 
 TypeScript: You will find the code example in this directory:
-features/TypeScript/annotations/variables
+typescriptBasic/TypeScript/annotations/useAnnotations
 
 JavaScript: You will find the code example in this directory:
-features/JavaScript/annotations/variables
+typescriptBasic/JavaScript/annotations/useAnnotations
