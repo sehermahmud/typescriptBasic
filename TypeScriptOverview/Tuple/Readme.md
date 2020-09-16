@@ -11,3 +11,7 @@ In short Answer:
 Array like structure where each element represents some property of a record
 
 / ------ Examples ------ /
+
+Find examples in this directorys:
+
+typescriptBasic/TypeScriptOverview/Tuple/Examples
